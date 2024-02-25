@@ -3,12 +3,44 @@
     <title>Анжелика Ван-Ин</title>
     <link href="https://anzhelikavanin.com/feed.xml" rel="self" />
     <link href="https://anzhelikavanin.com" />
-    <updated>2024-02-25T20:58:07+01:00</updated>
+    <updated>2024-02-25T21:14:19+01:00</updated>
     <author>
         <name>Anzhelika Van-In</name>
     </author>
     <id>https://anzhelikavanin.com</id>
 
+    <entry>
+        <title>Картофель</title>
+        <author>
+            <name>Anzhelika Van-In</name>
+        </author>
+        <link href="https://anzhelikavanin.com/kartofel.html"/>
+        <id>https://anzhelikavanin.com/kartofel.html</id>
+            <category term="проект"/>
+
+        <updated>2024-02-25T21:14:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://anzhelikavanin.com/media/posts/3/Kartofel_1.jpg" alt="" />
+                    зин / 2023 В деревнях, сезон за сезоном, сообщество выращивает картофель, повторяя&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://anzhelikavanin.com/media/posts/3/Kartofel_1.jpg" alt="" />
+                <p>зин / 2023</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_2.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_3.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_3-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_4.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_4-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_5.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_5-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_6.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_6-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_7.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_7-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
+<p><br><br>В деревнях, сезон за сезоном, сообщество выращивает картофель, повторяя и сохраняя процессы культивации. Жители собирают свой урожай картофеля, вместе едят и делятся с соседями.<br><br>Художественная публикация получилась в результате наблюдений за практиками сбора картофеля в коми деревне. Художница делала графические зарисовки, разговаривая с соседями. На основе их рассказов она собрала серию воспоминаний и впечатлений жителей деревни о процессе сбора картофеля. <br><br>Этот зин разработан в рамках серии полевых исследований женских практик культивации в деревенской среде. Зин состоит из взаимосвязанных групп: сбор, сообщество, хранение, приготовление.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Рынок на земле: исследование городских нарративов</title>
         <author>
