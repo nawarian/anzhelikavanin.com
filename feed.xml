@@ -3,22 +3,49 @@
     <title>Анжелика Ван-Ин</title>
     <link href="https://anzhelikavanin.com/feed.xml" rel="self" />
     <link href="https://anzhelikavanin.com" />
-    <updated>2024-02-25T20:18:19+01:00</updated>
+    <updated>2024-02-25T20:30:43+01:00</updated>
     <author>
         <name>Anzhelika Van-In</name>
     </author>
     <id>https://anzhelikavanin.com</id>
 
     <entry>
-        <title>Проекты</title>
+        <title>Рынок на земле: исследование городских нарративов</title>
         <author>
             <name>Anzhelika Van-In</name>
         </author>
         <link href="https://anzhelikavanin.com/proekty.html"/>
         <id>https://anzhelikavanin.com/proekty.html</id>
 
-        <updated>2024-02-25T20:18:19+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2024-02-25T20:30:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                    2024 / зин Это полевое исследование пространства блошиного рынка в районе Удельная,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="page" title="Page 1">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<div class="page" title="Page 1">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<figure class="post__image"><img loading="lazy"  src="https://anzhelikavanin.com/media/posts/2/1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://anzhelikavanin.com/media/posts/2/responsive/1-xs.jpg 300w ,https://anzhelikavanin.com/media/posts/2/responsive/1-sm.jpg 480w ,https://anzhelikavanin.com/media/posts/2/responsive/1-md.jpg 768w ,https://anzhelikavanin.com/media/posts/2/responsive/1-lg.jpg 1024w"  alt="" width="1080" height="1080"></figure>2024 / зин</p>
+</div>
+</div>
+</div>
+</div>
+<p>Это полевое исследование пространства блошиного рынка в районе Удельная, на севере Санкт-Петербурга. Здесь, среди беспорядка артефактов и разговоров продавцов и покупателей, проект изучает городские нарративы в повседневных разговорах и предметах.</p>
+<p>Бытовой жанр графики совмещает культурные традиции и городской фольклор, создавая городскую память — совокупность историй, обычаев и воспоминаний, пережитых и разделяемых общностью рынка</p>
+<p>Печать: черепечатня /<br>Рисунок, исследование: Анжелика Ван-Ин / <br>Редакция, издательство: Ника Григорян /</p>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
     </entry>
 </feed>
