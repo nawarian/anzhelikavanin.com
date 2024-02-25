@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://anzhelikavanin.com/sitemap.xml
