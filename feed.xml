@@ -3,12 +3,39 @@
     <title>Анжелика Ван-Ин</title>
     <link href="https://anzhelikavanin.com/feed.xml" rel="self" />
     <link href="https://anzhelikavanin.com" />
-    <updated>2024-02-27T12:40:05+01:00</updated>
+    <updated>2024-02-27T12:48:50+01:00</updated>
     <author>
         <name>Anzhelika Van-In</name>
     </author>
     <id>https://anzhelikavanin.com</id>
 
+    <entry>
+        <title>Ботаника</title>
+        <author>
+            <name>Anzhelika Van-In</name>
+        </author>
+        <link href="https://anzhelikavanin.com/botanika.html"/>
+        <id>https://anzhelikavanin.com/botanika.html</id>
+            <category term="графика"/>
+
+        <updated>2024-02-27T12:48:50+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://anzhelikavanin.com/media/posts/6/IMG_3579.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3578.jpg" data-size="3842x992"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3578-thumbnail.jpg" alt="" width="768" height="198"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3580.jpg" data-size="3601x1097"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3580-thumbnail.jpg" alt="" width="768" height="234"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3604.jpg" data-size="3346x1161"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3604-thumbnail.jpg" alt="" width="768" height="266"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3608.jpg" data-size="3746x1129"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3608-thumbnail.jpg" alt="" width="768" height="231"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3611.jpg" data-size="3897x1360"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3611-thumbnail.jpg" alt="" width="768" height="268"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3638.jpg" data-size="2586x471"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3638-thumbnail.jpg" alt="" width="768" height="140"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3643.jpg" data-size="3884x1303"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3643-thumbnail.jpg" alt="" width="768" height="258"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3648.jpg" data-size="3577x1605"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/6/gallery/IMG_3648-thumbnail.jpg" alt="" width="768" height="345"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Maуэрпарк</title>
         <author>
