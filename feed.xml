@@ -3,12 +3,33 @@
     <title>Анжелика Ван-Ин</title>
     <link href="https://anzhelikavanin.com/feed.xml" rel="self" />
     <link href="https://anzhelikavanin.com" />
-    <updated>2024-03-03T18:40:43+01:00</updated>
+    <updated>2024-03-03T19:06:58+01:00</updated>
     <author>
         <name>Anzhelika Van-In</name>
     </author>
     <id>https://anzhelikavanin.com</id>
 
+    <entry>
+        <title>Маки</title>
+        <author>
+            <name>Anzhelika Van-In</name>
+        </author>
+        <link href="https://anzhelikavanin.com/maki.html"/>
+        <id>https://anzhelikavanin.com/maki.html</id>
+            <category term="графика"/>
+
+        <updated>2024-03-03T19:06:58+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/7/gallery/IMG_3618.jpg" data-size="3265x2212"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/7/gallery/IMG_3618-thumbnail.jpg" alt="" width="768" height="520"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/7/gallery/IMG_3611.jpg" data-size="3897x1360"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/7/gallery/IMG_3611-thumbnail.jpg" alt="" width="768" height="268"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/7/gallery/IMG_3618-2.jpg" data-size="3265x2212"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/7/gallery/IMG_3618-2-thumbnail.jpg" alt="" width="768" height="520"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ботаника</title>
         <author>

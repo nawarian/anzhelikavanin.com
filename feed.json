@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://anzhelikavanin.com/maki.html",
+            "url": "https://anzhelikavanin.com/maki.html",
+            "title": "Маки",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://anzhelikavanin.com/media/posts/7/gallery/IMG_3618.jpg\" data-size=\"3265x2212\"><img loading=\"lazy\" src=\"https://anzhelikavanin.com/media/posts/7/gallery/IMG_3618-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"520\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://anzhelikavanin.com/media/posts/7/gallery/IMG_3611.jpg\" data-size=\"3897x1360\"><img loading=\"lazy\" src=\"https://anzhelikavanin.com/media/posts/7/gallery/IMG_3611-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"268\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://anzhelikavanin.com/media/posts/7/gallery/IMG_3618-2.jpg\" data-size=\"3265x2212\"><img loading=\"lazy\" src=\"https://anzhelikavanin.com/media/posts/7/gallery/IMG_3618-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"520\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Anzhelika Van-In"
+            },
+            "tags": [
+                   "графика"
+            ],
+            "date_published": "2024-03-03T19:06:20+01:00",
+            "date_modified": "2024-03-03T19:06:58+01:00"
+        },
+        {
             "id": "https://anzhelikavanin.com/botanika.html",
             "url": "https://anzhelikavanin.com/botanika.html",
             "title": "Ботаника",
