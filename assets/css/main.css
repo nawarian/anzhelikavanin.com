@@ -101,7 +101,7 @@ html.no-scroll {
 }
 
 body {
-  background: var(--lighter);
+  background: var(--white);
   color: var(--text-color);
   font-family: var(--body-font);
   font-weight: var(--font-weight-normal);
