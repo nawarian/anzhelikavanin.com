@@ -3,12 +3,58 @@
     <title>Анжелика Ван-Ин</title>
     <link href="https://anzhelikavanin.com/feed.xml" rel="self" />
     <link href="https://anzhelikavanin.com" />
-    <updated>2024-06-23T13:22:31+03:00</updated>
+    <updated>2024-07-01T23:14:00+03:00</updated>
     <author>
         <name>Anzhelika Van-In</name>
     </author>
     <id>https://anzhelikavanin.com</id>
 
+    <entry>
+        <title>Картофель</title>
+        <author>
+            <name>Anzhelika Van-In</name>
+        </author>
+        <link href="https://anzhelikavanin.com/kartofel.html"/>
+        <id>https://anzhelikavanin.com/kartofel.html</id>
+        <media:content url="https://anzhelikavanin.com/media/posts/3/Kartofel_1.jpg" medium="image" />
+            <category term="исследование"/>
+
+        <updated>2024-07-01T23:14:00+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://anzhelikavanin.com/media/posts/3/Kartofel_1.jpg" alt="" />
+                    зин / 2023 В деревнях, сезон за сезоном, сообщество выращивает картофель, повторяя&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://anzhelikavanin.com/media/posts/3/Kartofel_1.jpg" class="type:primaryImage" alt="" /></p>
+                <p>зин / 2023</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_2.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_3.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_3-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_4.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_4-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_5.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_5-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_6.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_6-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_7.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_7-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
+<p><br><br>В деревнях, сезон за сезоном, сообщество выращивает картофель, повторяя и сохраняя процессы культивации. Жители собирают свой урожай картофеля, вместе едят и делятся с соседями.<br><br>Художественная публикация получилась в результате наблюдений за практиками сбора картофеля в коми деревне. Художница делала графические зарисовки, разговаривая с соседями. На основе их рассказов она собрала серию воспоминаний и впечатлений жителей деревни о процессе сбора картофеля. <br><br>Этот зин разработан в рамках серии полевых исследований женских практик культивации в деревенской среде. Зин состоит из взаимосвязанных групп: сбор, сообщество, хранение, приготовление.</p>
+<p>Работа над публикацией: Ника Григорян,  Николас да Сильва </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/IMG_20221004_111548.jpg" data-size="2368x3200"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/IMG_20221004_111548-thumbnail.jpg" alt="" width="768" height="1038"></a>
+<figcaption>Огородный костюм, 2023</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/IMG_20221004_163200.jpg" data-size="2142x2896"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/IMG_20221004_163200-thumbnail.jpg" alt="" width="768" height="1038"></a>
+<figcaption>Огородный костюм, 2023</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/IMG_20221004_111900.jpg" data-size="2368x3200"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/IMG_20221004_111900-thumbnail.jpg" alt="" width="768" height="1038"></a>
+<figcaption>Огородный костюм, 2023</figcaption>
+</figure>
+</div></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Поле</title>
         <author>
@@ -112,52 +158,6 @@
 <figcaption>sensing the city - sense of the city, O.R.i, Berlin, 2022</figcaption>
 </figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Картофель</title>
-        <author>
-            <name>Anzhelika Van-In</name>
-        </author>
-        <link href="https://anzhelikavanin.com/kartofel.html"/>
-        <id>https://anzhelikavanin.com/kartofel.html</id>
-        <media:content url="https://anzhelikavanin.com/media/posts/3/Kartofel_1.jpg" medium="image" />
-            <category term="исследование"/>
-
-        <updated>2024-02-25T23:14:19+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://anzhelikavanin.com/media/posts/3/Kartofel_1.jpg" alt="" />
-                    зин / 2023 В деревнях, сезон за сезоном, сообщество выращивает картофель, повторяя&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://anzhelikavanin.com/media/posts/3/Kartofel_1.jpg" class="type:primaryImage" alt="" /></p>
-                <p>зин / 2023</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_2.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_3.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_3-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_4.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_4-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_5.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_5-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_6.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_6-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_7.jpg" data-size="1080x1080"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/Kartofel_7-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-</div></div>
-<p><br><br>В деревнях, сезон за сезоном, сообщество выращивает картофель, повторяя и сохраняя процессы культивации. Жители собирают свой урожай картофеля, вместе едят и делятся с соседями.<br><br>Художественная публикация получилась в результате наблюдений за практиками сбора картофеля в коми деревне. Художница делала графические зарисовки, разговаривая с соседями. На основе их рассказов она собрала серию воспоминаний и впечатлений жителей деревни о процессе сбора картофеля. <br><br>Этот зин разработан в рамках серии полевых исследований женских практик культивации в деревенской среде. Зин состоит из взаимосвязанных групп: сбор, сообщество, хранение, приготовление.</p>
-<p>Работа над публикацией: Ника Григорян,  Николас да Сильва </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/IMG_20221004_111548.jpg" data-size="2368x3200"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/IMG_20221004_111548-thumbnail.jpg" alt="" width="768" height="1038"></a>
-<figcaption>Огородный костюм, 2023</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/IMG_20221004_163200.jpg" data-size="2142x2896"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/IMG_20221004_163200-thumbnail.jpg" alt="" width="768" height="1038"></a>
-<figcaption>Огородный костюм, 2023</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/3/gallery/IMG_20221004_111900.jpg" data-size="2368x3200"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/3/gallery/IMG_20221004_111900-thumbnail.jpg" alt="" width="768" height="1038"></a>
-<figcaption>Огородный костюм, 2023</figcaption>
-</figure>
-</div></div>
-<p> </p>
             ]]>
         </content>
     </entry>
