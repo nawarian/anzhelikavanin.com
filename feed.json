@@ -44,21 +44,6 @@
             "date_modified": "2024-07-31T19:02:45+03:00"
         },
         {
-            "id": "https://anzhelikavanin.com/pole.html",
-            "url": "https://anzhelikavanin.com/pole.html",
-            "title": "Поле",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://anzhelikavanin.com/media/posts/8/gallery/IMG_3625.jpg\" data-size=\"3839x2529\"><img loading=\"lazy\" src=\"https://anzhelikavanin.com/media/posts/8/gallery/IMG_3625-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"506\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://anzhelikavanin.com/media/posts/8/gallery/IMG_3627.jpg\" data-size=\"3738x2543\"><img loading=\"lazy\" src=\"https://anzhelikavanin.com/media/posts/8/gallery/IMG_3627-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"522\"></a></figure>\n</div></div>",
-            "image": "https://anzhelikavanin.com/media/posts/8/IMG_3617.jpg",
-            "author": {
-                "name": "Anzhelika Van-In"
-            },
-            "tags": [
-                   "графика"
-            ],
-            "date_published": "2024-03-03T21:11:41+03:00",
-            "date_modified": "2024-03-03T21:25:00+03:00"
-        },
-        {
             "id": "https://anzhelikavanin.com/maki.html",
             "url": "https://anzhelikavanin.com/maki.html",
             "title": "Маки",
