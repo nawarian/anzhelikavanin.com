@@ -3,7 +3,7 @@
     <title>Анжелика Ван-Ин</title>
     <link href="https://anzhelikavanin.com/feed.xml" rel="self" />
     <link href="https://anzhelikavanin.com" />
-    <updated>2025-01-28T20:53:57+03:00</updated>
+    <updated>2025-01-28T21:45:00+03:00</updated>
     <author>
         <name>Anzhelika Van-In</name>
     </author>
@@ -91,6 +91,28 @@
 </div></div>
 <p><span style="font-weight: 400;">После показа выставки в Национальной библиотеке Республики Коми в Сыктывкаре, работы переехали на Коквицкую Гору, в библиотеку села Кожмудор, где художница работала над полевым исследованием.<br></span><br><br></p>
 <figure class="post__image"><img loading="lazy"  src="undefined" alt="" data-is-external-image="true"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Поле</title>
+        <author>
+            <name>Anzhelika Van-In</name>
+        </author>
+        <link href="https://anzhelikavanin.com/pole.html"/>
+        <id>https://anzhelikavanin.com/pole.html</id>
+        <media:content url="https://anzhelikavanin.com/media/posts/8/IMG_3617.jpg" medium="image" />
+            <category term="графика"/>
+
+        <updated>2024-03-03T21:11:41+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://anzhelikavanin.com/media/posts/8/IMG_3617.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/8/gallery/IMG_3625.jpg" data-size="3839x2529"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/8/gallery/IMG_3625-thumbnail.jpg" alt="" width="768" height="506"></a></figure>
+<figure class="gallery__item"><a href="https://anzhelikavanin.com/media/posts/8/gallery/IMG_3627.jpg" data-size="3738x2543"><img loading="lazy" src="https://anzhelikavanin.com/media/posts/8/gallery/IMG_3627-thumbnail.jpg" alt="" width="768" height="522"></a></figure>
+</div></div>
             ]]>
         </content>
     </entry>
