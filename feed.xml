@@ -3,7 +3,7 @@
     <title>Анжелика Ван-Ин</title>
     <link href="https://anzhelikavanin.com/feed.xml" rel="self" />
     <link href="https://anzhelikavanin.com" />
-    <updated>2025-03-30T15:12:18+02:00</updated>
+    <updated>2025-03-30T15:15:09+02:00</updated>
     <author>
         <name>Anzhelika Van-In</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://anzhelikavanin.com/planetarnyy-sad.html"/>
         <id>https://anzhelikavanin.com/planetarnyy-sad.html</id>
         <media:content url="https://anzhelikavanin.com/media/posts/10/16_sad_vystavka.jpg" medium="image" />
+            <category term="исследование"/>
 
         <updated>2025-03-30T15:05:41+02:00</updated>
             <summary>
