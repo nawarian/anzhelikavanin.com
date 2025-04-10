@@ -3,7 +3,7 @@
     <title>Анжелика Ван-Ин</title>
     <link href="https://anzhelikavanin.com/feed.xml" rel="self" />
     <link href="https://anzhelikavanin.com" />
-    <updated>2025-04-10T16:14:22+02:00</updated>
+    <updated>2025-04-10T16:16:26+02:00</updated>
     <author>
         <name>Anzhelika Van-In</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://anzhelikavanin.com/shoma-kapusta-i-recepty-komi.html"/>
         <id>https://anzhelikavanin.com/shoma-kapusta-i-recepty-komi.html</id>
         <media:content url="https://anzhelikavanin.com/media/posts/11/8.jpeg" medium="image" />
+            <category term="медиация"/>
 
         <updated>2025-04-10T16:00:16+02:00</updated>
             <summary>
@@ -89,7 +90,6 @@
         <id>https://anzhelikavanin.com/zemledelie.html</id>
         <media:content url="https://anzhelikavanin.com/media/posts/9/03_zemledelie.jpg" medium="image" />
             <category term="проекты"/>
-            <category term="медиация"/>
             <category term="исследование"/>
 
         <updated>2025-01-28T18:22:47+01:00</updated>
